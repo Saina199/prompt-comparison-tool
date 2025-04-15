@@ -336,7 +336,8 @@ const imageData = [
                 "product merchandising",
                 "editorial",
                 "lifestyle",
-                "coffee branding"
+                "coffee branding",
+                "dark roast"
             ]
         }
     },
