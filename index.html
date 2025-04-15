@@ -57,28 +57,42 @@
         }
         .comparison {
             display: flex;
-            flex-wrap: wrap;
+            flex-direction: column;
+            align-items: center;
             gap: 20px;
+            width: 100%;
         }
         .image-container {
             flex: 1;
             min-width: 300px;
             text-align: center;
+            max-width: 600px;
+            margin: 0 auto;
         }
         .image-container img {
             max-width: 100%;
             max-height: 400px;
             border: 1px solid #ddd;
             border-radius: 4px;
+            object-fit: contain;
+            width: auto;
+            height: auto;
+            display: block;
+            margin: 0 auto;
         }
         .responses {
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
+            width: 100%;
+            justify-content: space-between;
+            margin: 0 auto;
+            max-width: 1100px;
         }
         .response {
             flex: 1;
             min-width: 300px;
+            max-width: calc(50% - 20px);
             padding: 15px;
             border: 1px solid #ddd;
             border-radius: 4px;
@@ -194,11 +208,21 @@
             max-height: 400px;
             border: 1px solid #ddd;
             border-radius: 4px;
+            object-fit: contain;
+            width: auto;
+            height: auto;
         }
         .gallery-responses {
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
+            width: 100%;
+            justify-content: space-between;
+        }
+        .gallery-responses .response {
+            flex: 1;
+            min-width: 300px;
+            max-width: calc(50% - 20px);
         }
         .progress-info {
             text-align: center;
@@ -844,4 +868,4 @@
         }
     </script>
 </body>
-</html> 
+</html>

@@ -1,7 +1,7 @@
 const imageData = [
     {
         "name": "yogaPose",
-        "imagePath": "../imgs/yogaPose.jpg",
+        "imagePath": "./imgs/yogaPose.jpg",
         "prompt1": {
             "title": "Athletic Woman Performing Side Plank in Black Sportswear",
             "description": "A fit woman demonstrates a side plank exercise, showcasing her toned physique in a minimalist setting. She wears a matching black sports bra and shorts, highlighting her athletic build. The neutral background emphasizes the focus on her form and the sleek, functional design of her activewear.",
@@ -39,7 +39,7 @@ const imageData = [
     },
     {
         "name": "fan",
-        "imagePath": "../imgs/fan.jpg",
+        "imagePath": "./imgs/fan.jpg",
         "prompt1": {
             "title": "DJ in Bugs Bunny Costume at Outdoor Event",
             "description": "A DJ dressed in a playful Bugs Bunny costume stands outdoors, surrounded by a lively crowd. The setting features clear skies and snowy trees, creating a festive atmosphere. Various brand logos are displayed at the bottom of the image, indicating sponsorships.",
@@ -77,7 +77,7 @@ const imageData = [
     },
     {
         "name": "vans",
-        "imagePath": "../imgs/vans.jpg",
+        "imagePath": "./imgs/vans.jpg",
         "prompt1": {
             "title": "Vans Checkerboard High-Top Sneakers on Metal Steps",
             "description": "A pair of Vans high-top sneakers with a classic black and white checkerboard pattern is displayed on green metal steps. The shoes feature white laces and the iconic Vans logo on the tongue. The rugged, urban setting contrasts with the bold, stylish design of the sneakers.",
@@ -115,7 +115,7 @@ const imageData = [
     },
     {
         "name": "ad",
-        "imagePath": "../imgs/ad.jpg",
+        "imagePath": "./imgs/ad.jpg",
         "prompt1": {
             "title": "Volkswagen Cabriolet Convertible Car Advertisement",
             "description": "This vintage advertisement features a sleek black Volkswagen Cabriolet convertible against a minimalist background. The car is showcased in profile, highlighting its elegant design and open-top feature. The text above emphasizes the numerous standard options available, appealing to potential buyers with its promise of value and style.",
@@ -153,7 +153,7 @@ const imageData = [
     },
     {
         "name": "cookware",
-        "imagePath": "../imgs/cookware.png",
+        "imagePath": "./imgs/cookware.png",
         "prompt1": {
             "title": "Sleek Black Cookware Set on Marble Countertop",
             "description": "A stylish black cookware set featuring two frying pans, a saucepan, and a stockpot with lids, displayed on a pristine marble countertop. The cookware's modern design and polished finish stand out against the elegant white marble background. Perfect for a contemporary kitchen setting.",
@@ -191,7 +191,7 @@ const imageData = [
     },
     {
         "name": "retailCoffee",
-        "imagePath": "../imgs/retailCoffee.jpg",
+        "imagePath": "./imgs/retailCoffee.jpg",
         "prompt1": {
             "title": "Neon Retail Coffee Sign with Comandante Shelf Display",
             "description": "A cozy coffee shop setting featuring a glowing neon 'Retail Coffee' sign on a dark wall. Below the sign, a wooden shelf branded with 'Comandante' displays various coffee packages. The scene is accented with trailing green plants, creating a warm and inviting atmosphere.",
@@ -229,7 +229,7 @@ const imageData = [
     },
     {
         "name": "centaur",
-        "imagePath": "../imgs/centaur.jpg",
+        "imagePath": "./imgs/centaur.jpg",
         "prompt1": {
             "title": "Fantasy Action Figures in Mythical Setting",
             "description": "Two detailed action figures are depicted in a mythical setting. One figure is a centaur with a muscular build and flowing brown hair, while the other is a warrior woman in black and gold armor. The background is simple, focusing attention on the intricately designed characters.",
@@ -267,7 +267,7 @@ const imageData = [
     },
     {
         "name": "headphones",
-        "imagePath": "../imgs/headphones.png",
+        "imagePath": "./imgs/headphones.png",
         "prompt1": {
             "title": "JBL White Over-Ear Gaming Headset with Microphone",
             "description": "This sleek white JBL over-ear gaming headset features a comfortable padded headband and ear cushions, accented with a subtle blue interior. The attached microphone ensures clear communication, making it perfect for immersive gaming sessions. The minimalist design and high-quality build highlight JBL's commitment to superior audio performance.",
@@ -305,7 +305,7 @@ const imageData = [
     },
     {
         "name": "expresso1",
-        "imagePath": "../imgs/expresso1.png",
+        "imagePath": "./imgs/expresso1.png",
         "prompt1": {
             "title": "Fr\u00e9scopa Medium Roast Whole Bean Coffee Packaging",
             "description": "This image showcases a 12 oz bag of Fr\u00e9scopa Medium Roast Whole Bean coffee. The packaging features a vibrant green top with the brand name and a rustic brown design depicting coffee beans. The label 'EXPRESSO' is prominently displayed in green, and a circular window reveals the rich, dark coffee beans inside.",
@@ -343,7 +343,7 @@ const imageData = [
     },
     {
         "name": "phoneCoffee",
-        "imagePath": "../imgs/phoneCoffee.jpg",
+        "imagePath": "./imgs/phoneCoffee.jpg",
         "prompt1": {
             "title": "Browsing Food Photos on Smartphone with Coffee",
             "description": "A close-up shot of a hand holding a sleek smartphone, browsing through a gallery of food photos. The setting is a cozy wooden table with a cup of frothy coffee in the foreground. The image captures a moment of leisure and digital engagement, highlighting the smartphone's clear display and the inviting ambiance.",
@@ -381,7 +381,7 @@ const imageData = [
     },
     {
         "name": "mensrunninglead",
-        "imagePath": "../imgs/mensrunninglead.jpg",
+        "imagePath": "./imgs/mensrunninglead.jpg",
         "prompt1": {
             "title": "Runner in Nike Shoes Mid-Stride Against Concrete Wall",
             "description": "A runner's legs are captured mid-stride, showcasing vibrant blue Nike running shoes with a white swoosh. The athlete is wearing black shorts and white socks, set against a minimalist concrete wall background. The image emphasizes motion and athleticism, with a shadow cast on the ground adding dynamic contrast.",
@@ -419,7 +419,7 @@ const imageData = [
     },
     {
         "name": "strangerThings",
-        "imagePath": "../imgs/strangerThings.jpeg",
+        "imagePath": "./imgs/strangerThings.jpeg",
         "prompt1": {
             "title": "Stranger Things: The First Shadow Stage Poster",
             "description": "A striking red poster for 'Stranger Things: The First Shadow' features a silhouette of a person standing in front of a window, with their shadow morphing into a monstrous figure. The bold black and white text highlights the show's title and tagline, creating a dramatic and eerie atmosphere. The minimalist design and contrasting colors capture the essence of the Stranger Things brand.",
@@ -457,7 +457,7 @@ const imageData = [
     },
     {
         "name": "cloths",
-        "imagePath": "../imgs/cloths.jpeg",
+        "imagePath": "./imgs/cloths.jpeg",
         "prompt1": {
             "title": "Cozy Winter Outfit with Sweater, Jeans, and Glasses",
             "description": "A neatly folded white knit sweater paired with dark blue jeans and stylish eyeglasses, set against a clean white background. The soft textures and neutral colors evoke a cozy, winter-ready look. Perfect for a casual yet chic fashion campaign.",
@@ -495,7 +495,7 @@ const imageData = [
     },
     {
         "name": "car_high",
-        "imagePath": "../imgs/car_high.jpg",
+        "imagePath": "./imgs/car_high.jpg",
         "prompt1": {
             "title": "Volkswagen Up! Concept Car at Auto Show Display",
             "description": "The image showcases a Volkswagen Up! concept car with a sleek white exterior and wooden interior accents, displayed at an auto show. The car's rear view highlights its modern design and spacious seating. The setting includes vibrant red and blue elements, enhancing the car's stylish appearance.",
@@ -533,7 +533,7 @@ const imageData = [
     },
     {
         "name": "echoFriendly",
-        "imagePath": "../imgs/echoFriendly.jpg",
+        "imagePath": "./imgs/echoFriendly.jpg",
         "prompt1": {
             "title": "Eco-Friendly Kraft Stand-Up Pouches on Yellow Background",
             "description": "Three biodegradable kraft stand-up pouches from Ellspo Eco are displayed against a vibrant yellow background. The pouches feature clean, minimalist labels highlighting their eco-friendly attributes, including FDA certification and kraft material. The earthy tones of the packaging contrast beautifully with the bright backdrop, emphasizing the sustainable nature of the product.",
@@ -571,7 +571,7 @@ const imageData = [
     },
     {
         "name": "camera",
-        "imagePath": "../imgs/camera.jpeg",
+        "imagePath": "./imgs/camera.jpeg",
         "prompt1": {
             "title": "Vintage Zenit Camera Hanging on Photographer's Neck",
             "description": "A classic Zenit TTL camera hangs from a photographer's neck, captured in a striking black and white image. The camera's textured body and bold lettering stand out against the dark background, evoking a sense of nostalgia and timeless craftsmanship. The monochromatic palette enhances the vintage aesthetic, making it perfect for campaigns focused on retro photography or classic camera enthusiasts.",
@@ -609,7 +609,7 @@ const imageData = [
     },
     {
         "name": "cream",
-        "imagePath": "../imgs/cream.jpg",
+        "imagePath": "./imgs/cream.jpg",
         "prompt1": {
             "title": "Drunk Elephant Protini Polypeptide Cream Product Image",
             "description": "The image showcases Drunk Elephant's Protini Polypeptide Cream in a sleek, white and turquoise jar. The minimalist design highlights the brand's logo and product details, emphasizing its key benefits of strengthening and moisturizing. The clean, modern aesthetic reflects the brand's commitment to effective, high-quality skincare.",
@@ -647,7 +647,7 @@ const imageData = [
     },
     {
         "name": "expresso2",
-        "imagePath": "../imgs/expresso2.png",
+        "imagePath": "./imgs/expresso2.png",
         "prompt1": {
             "title": "Fr\u00e9scopa Medium Roast House Blend Coffee Beans",
             "description": "This image features a 12 oz bag of Fr\u00e9scopa Medium Roast House Blend whole bean coffee. The packaging is a combination of earthy brown and rich maroon colors, with artistic illustrations of coffee beans and citrus slices. The brand name 'Fr\u00e9scopa' is prominently displayed at the top, along with the product type 'House Blend' and 'Medium Roast'. The transparent window reveals the dark, glossy coffee beans inside.",
@@ -685,7 +685,7 @@ const imageData = [
     },
     {
         "name": "cardPostal",
-        "imagePath": "../imgs/cardPostal.jpg",
+        "imagePath": "./imgs/cardPostal.jpg",
         "prompt1": {
             "title": "Vintage Winter Sports Scene with Ski Jump",
             "description": "A nostalgic winter sports scene featuring a ski jump in Ishpeming, Michigan. The image captures a crowd of spectators dressed in vintage winter attire, watching skiers descend the snowy slope. The setting is a picturesque winter landscape with snow-covered trees and a clear sky, evoking a sense of community and excitement.",
@@ -723,7 +723,7 @@ const imageData = [
     },
     {
         "name": "Arsenal_Rice",
-        "imagePath": "../imgs/Arsenal_Rice.jpg",
+        "imagePath": "./imgs/Arsenal_Rice.jpg",
         "prompt1": {
             "title": "Arsenal Player in Training Kit Holding Soccer Ball",
             "description": "A football player stands confidently on a green soccer field, wearing the Arsenal training kit. The blue and black jersey features the Emirates Fly Better logo in bright yellow, with the Arsenal crest prominently displayed. The player holds a colorful soccer ball under one arm, ready for action under a clear blue sky.",
@@ -761,7 +761,7 @@ const imageData = [
     },
     {
         "name": "soap_shelf",
-        "imagePath": "../imgs/soap_shelf.jpg",
+        "imagePath": "./imgs/soap_shelf.jpg",
         "prompt1": {
             "title": "Organized Skincare Shelf with Popular Beauty Products",
             "description": "A neatly organized bathroom shelf displays a variety of skincare products, including brands like CeraVe, Cetaphil, and Dr. Dennis Gross. The shelf features a mix of lotions, serums, and cleansers in vibrant packaging, creating a visually appealing and colorful arrangement. The setting is clean and minimalistic, highlighting the products' branding and functionality.",
@@ -799,7 +799,7 @@ const imageData = [
     },
     {
         "name": "swimming",
-        "imagePath": "../imgs/swimming.jpg",
+        "imagePath": "./imgs/swimming.jpg",
         "prompt1": {
             "title": "Competitive Swimmer Performing Backstroke in Indoor Pool",
             "description": "A competitive swimmer, wearing a black swim cap and goggles, performs a backstroke in an indoor pool. The water splashes around him as he glides between red and black lane dividers. The setting is a well-lit, professional swimming facility with clear blue water.",
@@ -837,7 +837,7 @@ const imageData = [
     },
     {
         "name": "dancingMan",
-        "imagePath": "../imgs/dancingMan.jpg",
+        "imagePath": "./imgs/dancingMan.jpg",
         "prompt1": {
             "title": "Male Dancer in Mid-Performance Pose",
             "description": "A male dancer strikes a dynamic pose in a minimalist studio setting. He is shirtless, wearing black leggings and socks, showcasing his muscular physique and grace. The black-and-white image emphasizes the elegance and strength of his form.",
@@ -875,7 +875,7 @@ const imageData = [
     },
     {
         "name": "lifeStyle",
-        "imagePath": "../imgs/lifeStyle.jpg",
+        "imagePath": "./imgs/lifeStyle.jpg",
         "prompt1": {
             "title": "Elegant Beachside Champagne and Hors d'oeuvres Setup",
             "description": "A sophisticated beachside setup features a table adorned with gourmet hors d'oeuvres and a bucket of champagne bottles surrounded by crystal glasses. Bright purple flowers add a pop of color against the serene backdrop of the ocean waves. The setting exudes luxury and elegance, perfect for a high-end event or celebration.",
@@ -913,7 +913,7 @@ const imageData = [
     },
     {
         "name": "glowing-elegance-radiant",
-        "imagePath": "../imgs/glowing-elegance-radiant.jpg",
+        "imagePath": "./imgs/glowing-elegance-radiant.jpg",
         "prompt1": {
             "title": "Elegant Perfume Bottle with Minimalist Design",
             "description": "A sleek, rectangular perfume bottle with a golden cap sits gracefully on a white surface, surrounded by smooth, beige stones. The bottle contains a warm amber liquid, reflecting the soft, natural light. The minimalist design and serene setting evoke a sense of luxury and tranquility.",
@@ -951,7 +951,7 @@ const imageData = [
     },
     {
         "name": "lowLatencyBlootooth",
-        "imagePath": "../imgs/lowLatencyBlootooth.jpg",
+        "imagePath": "./imgs/lowLatencyBlootooth.jpg",
         "prompt1": {
             "title": "Low-Latency Bluetooth Gaming Headset with Device Compatibility",
             "description": "A sleek black gaming headset with vibrant yellow accents, showcasing its low-latency Bluetooth feature. The image highlights compatibility with various devices including PCs, consoles, and mobile phones. Clear instructions for pairing and switching between devices are displayed, emphasizing user-friendly functionality.",
@@ -989,7 +989,7 @@ const imageData = [
     },
     {
         "name": "tv",
-        "imagePath": "../imgs/tv.jpg",
+        "imagePath": "./imgs/tv.jpg",
         "prompt1": {
             "title": "Hisense QD7 QLED TV with Basketball Action",
             "description": "A dynamic basketball game displayed on a Hisense QD7 QLED TV. The vivid colors and sharp details highlight the intense action on the court. The Wolves player dribbles past opponents, showcasing the TV's ability to capture fast-paced sports moments.",
@@ -1027,7 +1027,7 @@ const imageData = [
     },
     {
         "name": "skier",
-        "imagePath": "../imgs/skier.jpg",
+        "imagePath": "./imgs/skier.jpg",
         "prompt1": {
             "title": "Ski Racer in Action on Snowy Course",
             "description": "A ski racer in vibrant red and white gear navigates a snowy course, holding neon green ski poles. The racer wears a blue helmet and is surrounded by red safety netting. The background features a mix of snow and trees, creating a dynamic winter sports scene.",
@@ -1065,7 +1065,7 @@ const imageData = [
     },
     {
         "name": "hockey",
-        "imagePath": "../imgs/hockey.jpg",
+        "imagePath": "./imgs/hockey.jpg",
         "prompt1": {
             "title": "Intense Ice Hockey Game in Action-Packed Arena",
             "description": "Three hockey players are captured mid-game on an ice rink, showcasing intense action and teamwork. The players wear contrasting uniforms: two in dark blue with red accents and one in white with red and black details. The setting is an indoor arena with bright lighting and spectators visible in the background, adding to the dynamic atmosphere.",
@@ -1103,7 +1103,7 @@ const imageData = [
     },
     {
         "name": "group",
-        "imagePath": "../imgs/group.jpg",
+        "imagePath": "./imgs/group.jpg",
         "prompt1": {
             "title": "Group Enjoying Outdoor Event with Branded Backpacks",
             "description": "A lively group of friends is seated at an outdoor event, surrounded by branded tents and balloons. The main focus is a bright yellow backpack from Oakley, prominently displayed on the table. The setting is festive with clear skies and snow-covered ground, creating a vibrant and energetic atmosphere.",
@@ -1141,7 +1141,7 @@ const imageData = [
     },
     {
         "name": "moodyPhotoShoot",
-        "imagePath": "../imgs/moodyPhotoShoot.jpg",
+        "imagePath": "./imgs/moodyPhotoShoot.jpg",
         "prompt1": {
             "title": "Tropical Vibes: Woman in Floral Dress",
             "description": "A woman stands amidst lush greenery, holding a delicate fern leaf. She wears a vibrant turquoise dress adorned with tropical floral patterns. The background features a mix of natural foliage and a chain-link fence, creating a serene yet urban atmosphere.",
@@ -1179,7 +1179,7 @@ const imageData = [
     },
     {
         "name": "teddyBear",
-        "imagePath": "../imgs/teddyBear.jpeg",
+        "imagePath": "./imgs/teddyBear.jpeg",
         "prompt1": {
             "title": "Adorable Brown Teddy Bear on White Background",
             "description": "A charming brown teddy bear stands cheerfully against a clean white backdrop. The plush toy features soft, fluffy fur and a friendly, inviting expression. Perfect for children's campaigns or cozy home decor promotions.",
@@ -1217,7 +1217,7 @@ const imageData = [
     },
     {
         "name": "coca",
-        "imagePath": "../imgs/coca.jpeg",
+        "imagePath": "./imgs/coca.jpeg",
         "prompt1": {
             "title": "Classic Coca-Cola Glass Bottle with Iconic Red Label",
             "description": "A classic Coca-Cola glass bottle featuring the iconic red label with white script. The bottle is filled with the dark, fizzy beverage, showcasing its timeless design. The background is plain, emphasizing the product's nostalgic and refreshing appeal.",
@@ -1255,7 +1255,7 @@ const imageData = [
     },
     {
         "name": "likes",
-        "imagePath": "../imgs/likes.jpg",
+        "imagePath": "./imgs/likes.jpg",
         "prompt1": {
             "title": "Hands Holding Smartphone with Social Media Notifications",
             "description": "A close-up of hands holding a glowing smartphone, with social media notification icons floating above the screen. The background is dark, emphasizing the bright blue light from the phone. The image conveys connectivity and digital interaction.",
@@ -1293,7 +1293,7 @@ const imageData = [
     },
     {
         "name": "mini-fridge",
-        "imagePath": "../imgs/mini-fridge.jpg",
+        "imagePath": "./imgs/mini-fridge.jpg",
         "prompt1": {
             "title": "Compact Stainless Steel Mini Fridge with Open Door",
             "description": "A sleek, stainless steel mini fridge with its door slightly ajar, revealing neatly arranged green bottles and fresh produce inside. The minimalist design and compact size make it ideal for modern kitchens or office spaces. The brand name 'hOme' is subtly displayed on the door, emphasizing its contemporary style.",
@@ -1331,7 +1331,7 @@ const imageData = [
     },
     {
         "name": "shirt",
-        "imagePath": "../imgs/shirt.jpg",
+        "imagePath": "./imgs/shirt.jpg",
         "prompt1": {
             "title": "Chic Casual Outfit with Pink Blouse and Jeans",
             "description": "A stylish woman models a chic casual outfit featuring a soft pink wrap blouse with flared sleeves paired with high-waisted blue jeans. The setting is minimalistic with a light blue background, highlighting the elegance and simplicity of the ensemble. The outfit is accessorized with delicate gold jewelry, adding a touch of sophistication.",
@@ -1369,7 +1369,7 @@ const imageData = [
     },
     {
         "name": "Sephora-Skincare-Shelfie-Favs",
-        "imagePath": "../imgs/Sephora-Skincare-Shelfie-Favs.jpg",
+        "imagePath": "./imgs/Sephora-Skincare-Shelfie-Favs.jpg",
         "prompt1": {
             "title": "",
             "description": "",
@@ -1383,7 +1383,7 @@ const imageData = [
     },
     {
         "name": "adidas",
-        "imagePath": "../imgs/adidas.png",
+        "imagePath": "./imgs/adidas.png",
         "prompt1": {
             "title": "Colorful Soccer Jersey on Green Grass Close-Up",
             "description": "A vibrant soccer jersey featuring bold red and blue stripes with yellow accents is laid on a lush green grass field. The jersey has a small yellow patch with the number '05' on it. The image captures the texture and colors vividly, making it perfect for sportswear campaigns.",
@@ -1421,7 +1421,7 @@ const imageData = [
     },
     {
         "name": "ski",
-        "imagePath": "../imgs/ski.jpg",
+        "imagePath": "./imgs/ski.jpg",
         "prompt1": {
             "title": "Skiers Enjoying Sunny Winter Day on Snowy Slopes",
             "description": "Three skiers glide across a sunlit snowy slope, casting long shadows. The bright white snow contrasts with the vibrant red and dark clothing of the skiers. Tall trees in the background add depth to the serene winter scene.",
@@ -1459,7 +1459,7 @@ const imageData = [
     },
     {
         "name": "carBack",
-        "imagePath": "../imgs/carBack.jpg",
+        "imagePath": "./imgs/carBack.jpg",
         "prompt1": {
             "title": "Red Sports Car in Urban Setting",
             "description": "A striking red sports car is showcased from the rear, highlighting its sleek design and dual exhaust pipes. The car is parked in an urban setting with concrete walls, emphasizing its modern and powerful aesthetic. The brand logo is prominently displayed on the back, adding to its luxurious appeal.",
@@ -1497,7 +1497,7 @@ const imageData = [
     },
     {
         "name": "yoga",
-        "imagePath": "../imgs/yoga.jpg",
+        "imagePath": "./imgs/yoga.jpg",
         "prompt1": {
             "title": "Woman Ready for Yoga with Mat and Bottle",
             "description": "A woman in a sleeveless pink top and black leggings holds a rolled blue yoga mat and a white water bottle with motivational text. The setting is minimalistic with a white background and teal exercise bands hanging on the wall. The image exudes a calm and focused fitness vibe.",
@@ -1535,7 +1535,7 @@ const imageData = [
     },
     {
         "name": "roadPhone",
-        "imagePath": "../imgs/roadPhone.jpeg",
+        "imagePath": "./imgs/roadPhone.jpeg",
         "prompt1": {
             "title": "Hand Holding Smartphone Capturing Forest Bridge",
             "description": "A hand holds a black smartphone, capturing an image of a wooden bridge in a lush green forest. The phone screen displays an Instagram post of the same bridge, creating a layered visual effect. The background is filled with dense foliage, enhancing the natural and serene atmosphere.",
@@ -1573,7 +1573,7 @@ const imageData = [
     },
     {
         "name": "hoodieFront",
-        "imagePath": "../imgs/hoodieFront.jpg",
+        "imagePath": "./imgs/hoodieFront.jpg",
         "prompt1": {
             "title": "Stylish Blue Coat with White Outfit and Sneakers",
             "description": "A chic blue coat with large buttons is paired with a white top, white cropped pants, and white sneakers. The outfit exudes a clean, modern look perfect for a casual yet sophisticated style. The setting is minimalistic, highlighting the vibrant blue of the coat against the crisp white ensemble.",
@@ -1611,7 +1611,7 @@ const imageData = [
     },
     {
         "name": "planting",
-        "imagePath": "../imgs/planting.jpg",
+        "imagePath": "./imgs/planting.jpg",
         "prompt1": {
             "title": "Gardener Potting Flowers with Yellow Gloves in Spring",
             "description": "A gardener wearing bright yellow gloves is potting vibrant flowers in terracotta pots. The setting is a light, airy space with a rustic feel, featuring a striped shirt and various colorful blooms. The scene captures the essence of spring gardening with a focus on the hands-on activity and fresh, lively colors.",
@@ -1648,44 +1648,8 @@ const imageData = [
         }
     },
     {
-        "name": "Screenshot 2025-04-10 at 10.11.58\u202fAM",
-        "imagePath": "../output/Screenshot 2025-04-10 at 10.11.58\u202fAM_prompt_1/image_url.txt",
-        "prompt1": {
-            "title": "RIG 800LX Wireless Gaming Headset with Microphone",
-            "description": "The RIG 800LX wireless gaming headset features a sleek black design with a robust frame and cushioned ear cups for maximum comfort. The headset includes a flexible microphone and adjustable headband, perfect for immersive gaming sessions. The brand's logo is subtly placed on the side, adding a touch of sophistication to the overall look.",
-            "tags": [
-                "RIG",
-                "800LX",
-                "wireless",
-                "gaming",
-                "headset",
-                "microphone",
-                "black",
-                "comfortable",
-                "adjustable",
-                "immersive"
-            ]
-        },
-        "prompt2": {
-            "title": "High-Performance Gaming Headset with Noise-Canceling Microphone",
-            "description": "This high-performance gaming headset features a sleek black design with a noise-canceling microphone. The headset is constructed with durable materials and padded ear cups for comfort during extended gaming sessions. Ideal for immersive gaming experiences, e-sports competitions, and online communication, this headset ensures clear audio and voice transmission.",
-            "tags": [
-                "gaming headset",
-                "noise-canceling microphone",
-                "black design",
-                "durable materials",
-                "padded ear cups",
-                "immersive gaming",
-                "e-sports",
-                "online communication",
-                "high-performance",
-                "audio clarity"
-            ]
-        }
-    },
-    {
         "name": "coat",
-        "imagePath": "../imgs/coat.jpg",
+        "imagePath": "./imgs/coat.jpg",
         "prompt1": {
             "title": "Elegant Beige Blazer with Stylish Beige Handbag Display",
             "description": "A sophisticated beige blazer is elegantly displayed on a hanger, complemented by a chic beige handbag with a gold clasp. The minimalist setting and neutral tones create a refined and stylish look, perfect for a modern fashion campaign. The soft lighting enhances the texture and quality of the fabric and accessories.",
@@ -1723,7 +1687,7 @@ const imageData = [
     },
     {
         "name": "creditCard",
-        "imagePath": "../imgs/creditCard.jpg",
+        "imagePath": "./imgs/creditCard.jpg",
         "prompt1": {
             "title": "Contactless Payment with SumUp Card Reader in Cafe",
             "description": "A person holds a green contactless card near a white SumUp card reader, ready to make a payment. The setting appears to be a cafe, with a slice of cake and a cup of coffee in the background. The image highlights the ease and convenience of modern payment methods.",
@@ -1761,7 +1725,7 @@ const imageData = [
     },
     {
         "name": "jeep",
-        "imagePath": "../imgs/jeep.png",
+        "imagePath": "./imgs/jeep.png",
         "prompt1": {
             "title": "Sleek Blue Mercedes-Benz G-Class Side Profile View",
             "description": "A striking blue Mercedes-Benz G-Class SUV is showcased in a side profile view, highlighting its robust and luxurious design. The vehicle's glossy finish and black alloy wheels add a touch of elegance and power. The iconic Mercedes-Benz logo is subtly visible, emphasizing the brand's prestige and quality.",
@@ -1799,7 +1763,7 @@ const imageData = [
     },
     {
         "name": "ceramide",
-        "imagePath": "../imgs/ceramide.jpg",
+        "imagePath": "./imgs/ceramide.jpg",
         "prompt1": {
             "title": "Drunk Elephant B-Hydra Intensive Hydration Serum Bottle",
             "description": "A sleek, white bottle of Drunk Elephant B-Hydra Intensive Hydration Serum with a light blue cap. The minimalist design features black text detailing the product's name and key ingredients. The brand's logo, an abstract elephant, is prominently displayed at the top.",
@@ -1836,7 +1800,7 @@ const imageData = [
     },
     {
         "name": "carByStreet",
-        "imagePath": "../imgs/carByStreet.jpg",
+        "imagePath": "./imgs/carByStreet.jpg",
         "prompt1": {
             "title": "Vintage Silver Volkswagen Golf Parked on Suburban Street",
             "description": "A classic silver Volkswagen Golf is parked on a quiet suburban street. The car's boxy design and chrome details evoke a sense of nostalgia. The background features a neatly trimmed hedge and a brick house, adding to the serene neighborhood setting.",
@@ -1872,7 +1836,7 @@ const imageData = [
     },
     {
         "name": "shoe",
-        "imagePath": "../imgs/shoe.jpg",
+        "imagePath": "./imgs/shoe.jpg",
         "prompt1": {
             "title": "Elegant Brown and White Leather Kitten Heel Pump",
             "description": "This stylish kitten heel pump features a sophisticated blend of brown and white leather, with intricate perforated detailing. The sleek design and classic color combination make it a versatile addition to any wardrobe. Perfect for both professional and casual settings, this shoe exudes timeless elegance.",
@@ -1910,7 +1874,7 @@ const imageData = [
     },
     {
         "name": "hoodie",
-        "imagePath": "../imgs/hoodie.jpg",
+        "imagePath": "./imgs/hoodie.jpg",
         "prompt1": {
             "title": "Woman in Blue Hooded Coat and White Pants",
             "description": "A woman stands with her back to the camera, showcasing a light blue hooded coat paired with white cropped pants and white sneakers. The setting is minimalistic, emphasizing the clean lines and modern style of the outfit. The coat's vibrant blue color contrasts sharply with the crisp white pants, creating a fresh and contemporary look.",
@@ -1947,7 +1911,7 @@ const imageData = [
     },
     {
         "name": "cookwareL",
-        "imagePath": "../imgs/cookwareL.jpg",
+        "imagePath": "./imgs/cookwareL.jpg",
         "prompt1": {
             "title": "Vibrant Orange Cookware in Modern Kitchen Setting",
             "description": "A set of vibrant orange cookware, including a Dutch oven and a saucepan, is displayed on a sleek, dark marble countertop. The modern kitchen setting features warm lighting, wooden utensils, and a bowl of fresh lemons in the background, creating a cozy and inviting atmosphere. The cookware's glossy finish and rich color add a pop of brightness to the sophisticated space.",
@@ -1985,7 +1949,7 @@ const imageData = [
     },
     {
         "name": "lipBalm",
-        "imagePath": "../imgs/lipBalm.jpg",
+        "imagePath": "./imgs/lipBalm.jpg",
         "prompt1": {
             "title": "Drunk Elephant Lippe Balm with Yellow Cap",
             "description": "This image features Drunk Elephant's Lippe Balm, a compact lip care product with a vibrant yellow cap and a white base. The minimalist design showcases the brand's signature elephant logo and text in black, with a small yellow kiss mark. The overall aesthetic is clean and modern, emphasizing the product's premium quality and playful branding.",
@@ -2023,7 +1987,7 @@ const imageData = [
     },
     {
         "name": "sport",
-        "imagePath": "../imgs/sport.jpg",
+        "imagePath": "./imgs/sport.jpg",
         "prompt1": {
             "title": "Child wearing protective face shield indoors",
             "description": "A child wearing a protective face shield sits indoors, dressed in a navy and red sports shirt. The setting appears to be a gymnasium or sports hall, with a scoreboard visible in the background. The image captures a moment of attentiveness and safety in a public space.",
@@ -2059,7 +2023,7 @@ const imageData = [
     },
     {
         "name": "coffeeDrinking",
-        "imagePath": "../imgs/coffeeDrinking.png",
+        "imagePath": "./imgs/coffeeDrinking.png",
         "prompt1": {
             "title": "Man Enjoying Coffee and Breakfast Outdoors in Urban Setting",
             "description": "A man sits at an outdoor caf\u00e9 table, savoring a cup of coffee while enjoying a breakfast of toast and eggs. The setting is a charming urban street with a relaxed atmosphere, featuring warm, neutral tones and soft lighting. The man is casually dressed in a denim shirt, with headphones around his neck and a smartphone on the table.",
@@ -2095,7 +2059,7 @@ const imageData = [
     },
     {
         "name": "F-15_source_512",
-        "imagePath": "../imgs/F-15_source_512.jpg",
+        "imagePath": "./imgs/F-15_source_512.jpg",
         "prompt1": {
             "title": "F-15 Fighter Jet Soaring Above Ocean",
             "description": "An F-15 fighter jet glides effortlessly above a vast, blue ocean. The aircraft's sleek, gray body and sharp lines are highlighted against the clear sky. The jet's powerful engines and advanced weaponry are visible, showcasing its formidable capabilities.",
@@ -2133,7 +2097,7 @@ const imageData = [
     },
     {
         "name": "car_low",
-        "imagePath": "../imgs/car_low.jpg",
+        "imagePath": "./imgs/car_low.jpg",
         "prompt1": {
             "title": "Compact White Car at Auto Show Display",
             "description": "A sleek, compact white car is showcased at an auto show, viewed from the rear. The car's modern design features large rear windows and stylish taillights. The setting is a brightly lit exhibition hall with other vehicles and displays in the background, creating a vibrant and dynamic atmosphere.",
@@ -2171,7 +2135,7 @@ const imageData = [
     },
     {
         "name": "van",
-        "imagePath": "../imgs/van.jpg",
+        "imagePath": "./imgs/van.jpg",
         "prompt1": {
             "title": "Classic White Volkswagen Van at Outdoor Event",
             "description": "A pristine white Volkswagen van is parked at an outdoor event, showcasing its vintage charm. The iconic VW logo is prominently displayed on the front, and the van's sleek, retro design stands out against the backdrop of a red canopy and informational signs. The setting is sunny, highlighting the van's clean lines and classic appeal.",
