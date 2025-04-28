@@ -469,7 +469,7 @@
         // Update image and responses for single view
         function updateDisplay(index) {
             const data = imageData[index];
-            sourceImage.src = data.imagePath;
+            sourceImage.src = data.imageUrl;
             imageName.textContent = data.name;
             
             // Prompt 1 data
@@ -516,7 +516,7 @@
                 imageDiv.className = 'gallery-image';
                 
                 const img = document.createElement('img');
-                img.src = data.imagePath;
+                img.src = data.imageUrl;
                 img.alt = data.name;
                 
                 const nameLabel = document.createElement('p');
